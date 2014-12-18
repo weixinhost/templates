@@ -1,0 +1,3 @@
+[submodule "php/general/src/libraries"]
+	path = php/general/src/libraries
+	url = https://github.com/weixinhost/libraries
